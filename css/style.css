@@ -1,0 +1,20 @@
+body {
+  color: rgb(227, 176, 176);
+  text-emphasis: 'x';
+
+}
+
+.quote {
+  color: orange;
+}
+
+.quote.narrator {
+  outline-style:double
+  
+}
+
+#intro p {
+  color: blue;
+  transform: translate(120px, 50%);
+}
+
